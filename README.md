@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matheus Lucas Melo Pessoa do Nascimento;
 - 👀 I’m interested in Programming and learning new stuff everyday;
-- 🌱 I’m currently learning PHP and React;
+- 🌱 I’m currently learning Java, somethings from Front-End an React;
 - 💞️ I’m looking to collaborate on various projects and learn always;
 - 📫 How to reach me @matheusmelopessoa - Instagram
                      (81) 995251193 - Whatsapp
